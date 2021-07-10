@@ -2,9 +2,11 @@
 ## Welcome to my consul-lab test environment
 
 ### Overview
+
 This is a Vagrant setup that will download, install, and configure the lab, using vagrant and virtual box
 
 #### :electric_plug: Quickstart
+
 Bring the vagrant instance up.
 clon the repositories / download the consul-lab folder 
 navigate to this folder (using the cd /your way/  command on terminal)
@@ -24,6 +26,7 @@ access **apache** at 172.20.20.40:8080 in your local browser.
 
 
 ### :notebook: The steps for bulding this project:
+
   1. lern vagrant
   2. lern consul
   3. lern apache2
@@ -34,9 +37,12 @@ access **apache** at 172.20.20.40:8080 in your local browser.
   8. how to change listen port of apache
   9. create health check
 
-  *base alot on the official guide of HashiCorp
+  *base alot on the official guide of HashiCorp 
+   -https://learn.hashicorp.com/consul
+   -https://learn.hashicorp.com/tutorials/consul/deployment-guide
 
 ### :globe_with_meridians: Technicals
+
   - Written in rubi
   - base on virtual box ,vagrant and consul softwares
 
