@@ -38,8 +38,8 @@ access **apache** at 172.20.20.40:8080 in your local browser.
   9. create health check
 
   *base alot on the official guide of HashiCorp 
-   -https://learn.hashicorp.com/consul
-   -https://learn.hashicorp.com/tutorials/consul/deployment-guide
+   -https://learn.hashicorp.com/consul.
+   -https://learn.hashicorp.com/tutorials/consul/deployment-guide.
 
 ### :globe_with_meridians: Technicals
 
