@@ -9,10 +9,11 @@ This is a Vagrant setup that will download, install, and configure the lab, usin
 
 Bring the vagrant instance up.
 clon the repositories / download the consul-lab folder 
-navigate to this folder (using the cd /your way/  command on terminal)
+
+navigate to this folder via terminal
 
 ```
-cd /path
+cd /path..
 ```
 
 ```
@@ -49,4 +50,6 @@ access **apache** at 172.20.20.40:8080 in your local browser.
 
   - Written in rubi
   - base on virtual box ,vagrant and consul softwares
+
+
 
