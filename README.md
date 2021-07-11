@@ -33,7 +33,7 @@ access ***apache2*** at 172.20.20.40:8080 in your local browser.
 
 
 
-## :notebook: The steps for creating this project:
+## :notebook: The steps I took to create this project:
 
   1. Learn virtual box
   2. Learn vagrant
@@ -52,8 +52,8 @@ access ***apache2*** at 172.20.20.40:8080 in your local browser.
 
 ## :globe_with_meridians: Technicals
 
-  - Written in Rubi
-  - base on virtual box, vagrant and consul software
+  - Base on virtual box, vagrant and consul software
+  - Vagrant file written in Rubi
 
 
  <img width="1316" alt="consul nods" src="https://user-images.githubusercontent.com/71311119/125179126-f776e980-e1f3-11eb-9596-0f46bb6d9c98.png">
