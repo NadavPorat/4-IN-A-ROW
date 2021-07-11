@@ -2,11 +2,14 @@
 
 ## :desktop_computer: Overview
 
-This is a Vagrant setup that will download, install, and configure the lab, using vagrant & virtual box
+Environment components:
+
+1 VM installed with Consul server (Ubuntu)
+1 VM installed with Apache server + Consul agent (Ubuntu)
 
 ### :electric_plug: Quickstart
 
-clon the repositories 
+clone the repositories 
 
 navigate to this folder via terminal
 
