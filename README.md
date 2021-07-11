@@ -23,9 +23,9 @@ vagrant up
 
 access ***consul ui Server*** at 172.20.20.10:8500 in your local browser.
 
-access **consul ui Agent** at 172.20.20.40:8500 in your local browser.
+access ***consul ui Agent*** at 172.20.20.40:8500 in your local browser.
 
-access **apache** at 172.20.20.40:8080 in your local browser.
+access ***apache2*** at 172.20.20.40:8080 in your local browser.
 
 
 
