@@ -39,7 +39,7 @@ access ***apache2*** at 172.20.20.40:8080 in your local browser.
   8. How to change listen port of apache
   9. Create and register a health check 
 
-  *base alot on the official guide of HashiCorp 
+  *base on the official guide of HashiCorp 
    - https://learn.hashicorp.com/consul
    
    - https://learn.hashicorp.com/tutorials/consul/deployment-guide
