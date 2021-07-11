@@ -4,7 +4,7 @@
 
 Environment components:
 
-1 VM installed with Consul server (Ubuntu)
+1 VM installed with Consul server (Ubuntu).
 1 VM installed with Apache server + Consul agent (Ubuntu)
 
 ### :electric_plug: Quickstart
