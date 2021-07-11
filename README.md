@@ -29,7 +29,7 @@ access ***apache2*** at 172.20.20.40:8080 in your local browser.
 
 
 
-## :notebook: The steps for bulding this project:
+## :notebook: The steps for building this project:
 
   1. lern vagrant
   2. lern consul
