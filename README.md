@@ -1,7 +1,7 @@
 
 # Welcome to my consul-lab test environment
 
-## :desktop_computer:Overview
+## :desktop_computer: Overview
 
 This is a Vagrant setup that will download, install, and configure the lab, using vagrant and virtual box
 
