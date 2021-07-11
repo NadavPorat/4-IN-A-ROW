@@ -2,9 +2,12 @@
 
 ## :desktop_computer: Overview
 
+This is a test envirobment base on vagrant,consul and virtual box, it build 2 VMs on the same data center 
+
 Environment components:
 
-1 VM installed with Consul server (Ubuntu).
+1 VM installed with Consul server (Ubuntu)
+
 1 VM installed with Apache server + Consul agent (Ubuntu)
 
 ### :electric_plug: Quickstart
