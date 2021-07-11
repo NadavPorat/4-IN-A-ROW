@@ -33,7 +33,7 @@ access ***apache2*** at 172.20.20.40:8080 in your local browser.
 
 
 
-## :notebook: The steps for building this project:
+## :notebook: The steps creating this project:
 
   1. Learn virtual box
   2. Learn vagrant
