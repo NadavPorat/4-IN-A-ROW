@@ -3,12 +3,11 @@
 
 ## :desktop_computer: Overview
 
-This is a Vagrant setup that will download, install, and configure the lab, using vagrant and virtual box
+This is a Vagrant setup that will download, install, and configure the lab, using vagrant & virtual box
 
 ### :electric_plug: Quickstart
 
-Bring the vagrant instance up.
-clon the repositories / download the consul-lab folder 
+clon the repositories 
 
 navigate to this folder via terminal
 
@@ -31,15 +30,15 @@ access ***apache2*** at 172.20.20.40:8080 in your local browser.
 
 ## :notebook: The steps for building this project:
 
-  1. lern vagrant
-  2. lern consul
-  3. lern apache2
-  4. how to config Vm and set conul as a server
-  5. how to activate consul ui
-  6. how the define memory and cpu for VM
-  7. Multi-Machine - how we define and congig them, use same data center
-  8. how to change listen port of apache
-  9. create health check
+  1. Lern virtual box
+  2. Lern vagrant
+  3. Lern consul
+  4. How to config VM and set consul as a server
+  5. How to activate consul ui
+  6. How the define memory and cpu for VM
+  7. Multi-Machine - how we define and config, use same data center for both VM
+  8. How to change listen port of apache
+  9. Create and register health check 
 
   *base alot on the official guide of HashiCorp 
    - https://learn.hashicorp.com/consul
