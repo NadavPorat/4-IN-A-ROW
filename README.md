@@ -53,3 +53,8 @@ access **apache** at 172.20.20.40:8080 in your local browser.
 
 
  <img width="1316" alt="consul nods" src="https://user-images.githubusercontent.com/71311119/125179126-f776e980-e1f3-11eb-9596-0f46bb6d9c98.png">
+ 
+ <img width="1315" alt="health check" src="https://user-images.githubusercontent.com/71311119/125179163-681e0600-e1f4-11eb-9775-aaff3c793e9d.png">
+
+<img width="1438" alt="stop apache" src="https://user-images.githubusercontent.com/71311119/125179167-710ed780-e1f4-11eb-890e-f424e3baf79a.png">
+
